@@ -1,9 +1,0 @@
-Name: Calculate Average
-URL: https://www.codewars.com/kata/57a2013acf1fa5bfc4000921
-Rank: 8 kyu
-Categories: Fundamentals, Arrays
-
-Description:
-Write a function which calculates the average of the numbers in a given list.
-
-Note: Empty arrays should return 0.
